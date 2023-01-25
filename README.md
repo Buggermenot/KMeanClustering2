@@ -4,7 +4,7 @@
 
 - Demonstrates [K Means clustering](https://www.javatpoint.com/k-means-clustering-algorithm-in-machine-learning) for 2 clusters in [Processing](www.processing.org)
 
-##How to run the file:
-- After downloading both the files, compile and run them using [Processing](www.processing.org).
+## How to run the file:
+- After downloading both the files, compile and run them using [Processing](www.processing.org/download).
 - Click the mouse to update the positions of the centroids.
 - Press any key to reset the window.
